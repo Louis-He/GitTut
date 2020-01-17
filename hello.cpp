@@ -1,22 +1,30 @@
+scheisse schlafen
 #include <iostream>
 using namespace std;
 
 void thirty();
 void nine();
-
-void five(){
-    cout << "5" << endl;
-}
-
-void two(){
-	cout << "杨老板的老板" << endl;
-}
+void five();
+void two();
 
 int main(){
     twenty-one();
     two();
     five();
     return 0;
+}
+
+
+void two(){
+	cout << "杨老板的老板" << endl;
+}
+
+void five(){
+    cout << "5" << endl;
+}
+
+void eleven(){
+	cout<<11<<endl;
 }
 
 void thirty(){
