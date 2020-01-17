@@ -17,7 +17,7 @@ int main(){
 
     twenty-one();
     two();
->>>>>>> f3102f03918a0d0f2e505bbc6bbc127e88f0de38
+
 	return 0;
 
     five();
