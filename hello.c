@@ -1,4 +1,4 @@
-void nineteen();
+dvoid nineteen();
 
 int main(){
 	nineteen();
