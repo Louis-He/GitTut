@@ -1,0 +1,10 @@
+#include <iostream>
+
+void twenty-one(){
+    cout << "21" << endl;
+}
+
+int main(){
+    twenty-one();
+	return 0;
+}
