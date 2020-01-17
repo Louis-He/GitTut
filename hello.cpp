@@ -6,7 +6,7 @@ void five(){
 }
 
 void two(){
-	cout << "杨老板" << endl;
+	cout << "杨老板的老板" << endl;
 }
 
 int main(){
