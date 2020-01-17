@@ -1,7 +1,8 @@
 #include <iostream>
+using namespace std;
 
-void twenty-one(){
-    cout << "21" << endl;
+void five(){
+    cout << "5" << endl;
 }
 
 void two(){
@@ -9,7 +10,12 @@ void two(){
 }
 
 int main(){
+
     twenty-one();
     two();
 	return 0;
+
+    five();
+    return 0;
+
 }
