@@ -1,11 +1,11 @@
 #include <iostream>
 using namespace std;
 
-void five(){
-    cout << "5" << endl;
-}
-
 int main(){
-    five();
-    return 0;
+	eleven();
+	return 0;
+
+}
+void eleven(){
+	cout<<11<<endl;
 }
