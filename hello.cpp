@@ -1,10 +1,11 @@
 #include <iostream>
+using namespace std;
 
-void twenty-one(){
-    cout << "21" << endl;
+void five(){
+    cout << "5" << endl;
 }
 
 int main(){
-    twenty-one();
-	return 0;
+    five();
+    return 0;
 }
