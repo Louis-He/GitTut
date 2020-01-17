@@ -7,6 +7,7 @@ void nine();
 void five();
 void two();
 
+
 int main(){
     twenty-one();
     two();
