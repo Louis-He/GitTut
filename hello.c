@@ -6,5 +6,5 @@ int main(){
 }
 
 void nineteen(){
-	std::cout<<19<<endl;	
+	std::cout<<20<<endl;
 }
