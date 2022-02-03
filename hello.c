@@ -2,6 +2,7 @@ void nineteen();
 
 int main(){
 	nineteen();
+    int a;
 	return 0;
 }
 
