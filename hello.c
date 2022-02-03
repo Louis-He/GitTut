@@ -8,5 +8,5 @@ int main(){
 }
 
 void nineteen(){
-	std::cout<<20<<endl;
+	std::cout<<"nineteen"<<endl;
 }
