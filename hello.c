@@ -3,7 +3,7 @@ void nineteen();
 int main(){
 	nineteen();
 	return 0;
-	std::cout << halohalo << endl;
+	std::cout << nihaonihao << std::endl;
 }
 
 void nineteen(){
